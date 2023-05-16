@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mn_Share"
+        android:title="@string/share"
+        />
+    <item
+        android:id="@+id/mn_CopyFile"
+        android:title="@string/copy_file"
+        />
+
+    <item
+        android:id="@+id/mn_Rename"
+        android:title="@string/rename_file"
+
+        />
+
+    <item
+        android:id="@+id/mn_Delete"
+        android:title="@string/delete"
+        />
+
+</menu>
